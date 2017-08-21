@@ -1,1 +1,1 @@
-Contoh Gerak Peluru menggunakan I/O file ditambah dengan gnuplot
+Permasalahan numerik menggunakan bahasa Fortran
