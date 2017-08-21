@@ -1,0 +1,9 @@
+Untuk menjalankan di terminal
+
+silahkan buka terminal dan jalankan perintah
+
+chmod +x konsol-gravitasi.sh
+
+kemudian,
+
+./konsol-gravitasi.sh
